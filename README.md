@@ -5,7 +5,7 @@ This project simulates a qualitative cybersecurity risk assessment for **CloudSc
 
 ---
 
-## Fictional Company Profile
+## Company Profile
 * **Company Name:** CloudScale Technologies
 * **Industry:** SaaS / Cloud Solutions
 * **Employee Count:** 30 remote employees
@@ -14,7 +14,7 @@ This project simulates a qualitative cybersecurity risk assessment for **CloudSc
 
 ---
 
-## Methodology (NIST SP 800-30 Alignment)
+## Methodology (NIST SP 800-30)
 The assessment followed a four-step framework:
 1. **Asset Identification:** Mapping critical systems, data, and users.
 2. **Threat & Vulnerability Identification:** Pinpointing potential threat events and systemic weaknesses.
@@ -23,7 +23,7 @@ The assessment followed a four-step framework:
 
 ---
 
-## Risk Evaluation Matrix
+## Risk Evaluation 
 
 | Likelihood / Impact | Low Impact | Medium Impact | High Impact |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ The assessment followed a four-step framework:
 
 ---
 
-## Key Deliverables Included
+## Deliverables Included
 * `risk_register.md`: Detailed qualitative risk log with risk IDs, descriptions, and scores.
 * `remediation_plan.md`: Action items, assigned control frameworks, and implementation priorities.
 
