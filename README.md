@@ -1,7 +1,7 @@
 # Project 1: Enterprise Risk Assessment & Risk Register
 
 ## Executive Summary
-This project simulates a qualitative cybersecurity risk assessment for **CloudScale Technologies**, a fictional 30-person Software-as-a-Service (SaaS) startup that processes sensitive customer data in the cloud. Using principles from **NIST SP 800-30** (*Guide for Conducting Risk Assessments*), this project identifies key organizational risks, evaluates their potential impact, and outlines actionable mitigation plans to reduce business exposure.
+This project simulates a qualitative cybersecurity risk assessment for **CloudScale Technologies**, a fictional 30-person Software-as-a-Service startup that processes sensitive customer data in the cloud. Using principles from **NIST SP 800-30** , this project identifies key organizational risks, evaluates their potential impact, and outlines actionable mitigation plans to reduce business exposure.
 
 ---
 
